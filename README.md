@@ -48,6 +48,16 @@ A/D ←/→ で車を操作して、ゴールまで走るシンプルなゲー�
 - 開発環境：Unity6000.2.8f1
 - 開発期間：2025/10/23-2025/11/6
 
+### シンプルインフレ玉集め
+[<img src="https://os-worker.unityroom.com/unityroom_production/icon/237491/icon_20251209_010736.png?h=1765210056" alt="シンプルインフレ玉集め" style="height: 300px">](https://unityroom.com/games/simpleinflationtamaatume)
+
+
+[シンプルカードライブ](https://unityroom.com/games/simplecardrive)
+
+WASDで操作して赤枠の中に球を集めるシンプルなゲームです。
+
+- 開発環境：Unity6000.2.8f1
+- 開発期間：2025/11/24-2025/12/9
 
 ## 連絡先
 - X [@takumin393_](https://twitter.com/takumin393_)
