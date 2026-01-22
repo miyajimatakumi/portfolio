@@ -59,5 +59,16 @@ WASDで操作して赤枠の中に球を集めるシンプルなゲームです�
 - 開発環境：Unity6000.2.8f1
 - 開発期間：2025/11/24-2025/12/9
 
+### GPUMiningタイクーン
+[<img src="https://os-worker.unityroom.com/unityroom_production/icon/254787/icon_20260118_001049.png?h=1768662649" alt="GPUMiningタイクーン" style="height: 300px">](https://unityroom.com/games/gpuminingtycoon)
+
+
+[GPUMiningタイクーン](https://unityroom.com/games/gpuminingtycoon)
+
+GPUでマイニングをして、お金をためてGPUガチャを引き、どんどん効率を上げてお金を稼ぐ、シンプルなゲームです。
+
+- 開発環境：Unity6000.2.8f1
+- 開発期間：2025/12/29-2026/1/18~
+
 ## 連絡先
 - X [@takumin393_](https://twitter.com/takumin393_)
