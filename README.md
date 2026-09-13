@@ -64,7 +64,7 @@ A/D ←/→ で車を操作して、ゴールまで走るシンプルなゲー�
 [<img src="https://os-worker.unityroom.com/unityroom_production/icon/237491/icon_20251209_010736.png?h=1765210056" alt="シンプルインフレ玉集め" style="height: 300px">](https://unityroom.com/games/simpleinflationtamaatume)
 
 
-[シンプルカードライブ](https://unityroom.com/games/simplecardrive)
+[シンプルカードライブ](https://unityroom.com/games/simpleinflationtamaatume)
 
 WASDで操作して赤枠の中に球を集め、お金を稼ぎ、アップグレードしていく、シンプルなインクリメンタルゲームです。
 
