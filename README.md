@@ -1,6 +1,6 @@
 # portfolio
 - 宮島 拓実
-- 連絡先 X [@takumin393_](https://twitter.com/takumin393_) / Email [m.miyajima.takumi@gmail.com](mailto:m.miyajima.takumi@gmail.com)
+- 連絡先 X [@takumin393_](https://x.com/takumin393_) / Email [m.miyajima.takumi@gmail.com](mailto:m.miyajima.takumi@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2027年卒業予定
 
 ## スキル
@@ -64,7 +64,7 @@ A/D ←/→ で車を操作して、ゴールまで走るシンプルなゲー�
 [<img src="https://os-worker.unityroom.com/unityroom_production/icon/237491/icon_20251209_010736.png?h=1765210056" alt="シンプルインフレ玉集め" style="height: 300px">](https://unityroom.com/games/simpleinflationtamaatume)
 
 
-[シンプルカードライブ](https://unityroom.com/games/simpleinflationtamaatume)
+[シンプルインフレ玉集め](https://unityroom.com/games/simpleinflationtamaatume)
 
 WASDで操作して赤枠の中に球を集め、お金を稼ぎ、アップグレードしていく、シンプルなインクリメンタルゲームです。
 
