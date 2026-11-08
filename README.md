@@ -1,84 +1,128 @@
 # portfolio
-- 宮島 拓実
-- 連絡先 X [@takumin393_](https://x.com/takumin393_) / Email [m.miyajima.takumi@gmail.com](mailto:m.miyajima.takumi@gmail.com)
-- 専門学校デジタルアーツ東京 ゲームプログラムコース 2027年卒業予定
 
-## スキル
-- Unity
-  - 利用歴１年半
-  - 個人でゲーム制作
-- C/C++
-  - 利用歴１年半
-- C#(Unityでの利用)
-  - 利用歴１年半
+**宮島 拓実** 
+専門学校デジタルアーツ東京 ゲーム学科ゲームプログラム専攻 2027年卒業予定
 
-## 取り組んでいるテーマ
-1. オリジナルゲーム開発
+連絡先：X [@takumin393_](https://x.com/takumin393_) / Email [m.miyajima.takumi@gmail.com](mailto:m.miyajima.takumi@gmail.com)
 
-## 作品リスト
+## ハイライト
 
-### インクリメンタルタワーディフェンス
-[<img src="https://os-worker.unityroom.com/unityroom_production/icon/329607/icon_20260814_155111.gif?h=1786690271" alt="incrementaltd" style="height: 300px">](https://unityroom.com/games/incrementaltd)
+- 個人を中心に **6本のゲームを unityroom で公開**
+- 「GPUMiningタイクーン」：閲覧数 **6,800回以上**
+- 「シンプルインフレコインプッシャー」：unityroom の **「人気の新着」に掲載**、ゲーム内広告で **公開後半年で約5,000円の収益**
+- 公開後もプレイヤーのコメントをもとに、**自動化機能やセーブ機能を追加するアップデート**を実施
 
-[インクリメンタルタワーディフェンス](https://unityroom.com/games/incrementaltd)
+## スキル(2026年11月現在)
 
-タワーに対して敵がひっきりなしに攻めてくるので、アップグレードでタワーや味方キャラを強化して、300秒生存を目指すインクリメンタルゲームです。プレステージもあります。
-<br><br>また、このゲーム制作はAIの活用を目的としているため、Claudeを利用して、キャラクターの動きの設計、セーブ機能の仕様などを指示し、動作確認とデバッグを行いました。
+| スキル | 利用歴 | 内容 |
+| --- | --- | --- |
+| Unity | 1年半 | 個人でのゲーム制作・unityroom への公開 |
+| C# | 1年半 | Unity での開発（ScriptableObject、PlayerPrefs でのセーブなど） |
+| C/C++ | 1年半 | 学校での授業・課題 |
+| Blender | 1年半 | ゲームで使う3Dモデルの制作 |
+| Claude（生成AI） | 3か月 | AIを活用したゲーム開発 |
 
-- 開発環境：Unity6000.3.12f1 + Claude
-- 開発期間：2026/7/27-2026/8/16
+## 取り組んでいること
+
+1. **オリジナルゲームの開発と公開**：作って終わりにせず、unityroom で公開して実際に遊んでもらう
+2. **プレイヤーの声を反映した改善**：コメントの要望をもとに機能を追加する
+3. **AIを活用した開発**：設計・指示・検証を自分が担当し、AIと一緒に開発を進める
+
+---
+
+## 主な作品
 
 ### シンプルインフレコインプッシャー
-[<img src="https://os-worker.unityroom.com/unityroom_production/icon/214487/icon_20250925_213141.png?h=1758803501" alt="simpleinflationcoinpusher" style="height: 300px">](https://unityroom.com/games/simpleinflationcoinpusher)
 
-[シンプルインフレコインプッシャー](https://unityroom.com/games/simpleinflationcoinpusher)
+[<img src="https://os-worker.unityroom.com/unityroom_production/icon/214487/icon_20250925_213141.png?h=1758803501" alt="シンプルインフレコインプッシャー" height="300">](https://unityroom.com/games/simpleinflationcoinpusher)
 
-画面をクリックしてコインを出し、カプセルを落としてルーレットを回し、ボーナスコインでコインを落とし、落としたコインで、コインプッシャーをアップグレードしていき、どんどんインフレさせていくゲーム。
-<br><br>また、ゲーム内に広告を配置し、Unityroomに公開してから最初の半年で5000円の収益を出すことに成功しました。
+▶ [unityroom で遊ぶ](https://unityroom.com/games/simpleinflationcoinpusher)
 
-- 開発環境：Unity6000.2.8f1 
-- 開発期間：2025/9/15-2025/11/8
-- UnityRoomの人気の新着に掲載
+クリックでコインを投入し、カプセルを落としてルーレットを回し、獲得したコインでコインプッシャーを強化して数値をどんどんインフレさせていくゲームです。
 
-### シンプルインフレダイス
-[<img src="https://os-worker.unityroom.com/unityroom_production/icon/229044/icon_20251115_122319.png?h=1763176999" alt="シンプルインフレダイス" style="height: 300px">](https://unityroom.com/games/simpleinflationdice)
+| 項目 | 内容 |
+| --- | --- |
+| 制作順 | 1作目 |
+| 開発環境 | Unity 6000.2.8f1 / C# |
+| 制作期間 | 2025/9/15 ～ 2025/11/8（約8週間） |
+| 制作人数 | 1人（企画・プログラミング・ルーレットの3Dモデル） |
+| 実績 | unityroom「人気の新着」に掲載 / 広告収益 約5,000円（公開後半年）/ スコアランキング対応 |
 
-[シンプルインフレダイス](https://unityroom.com/games/simpleinflationdice)
+**工夫した点**
 
-画面をクリックしてダイスを振ると、出た出目に応じてお金がもらえ、そのお金でダイスを強化していき、インフレさせていくゲームです。
+- **処理負荷対策とインフレ感の両立**
+  ゲームが進むとボーナスコインが増え、物理演算で動くコインを大量に出すと処理が追いつかずゲームが落ちてしまう問題がありました。そこで、ボーナスコインが一定以上溜まったら、フィールドに出さずに所持コインへ直接加算する仕組みにしました。画面上のコインの数を抑えて処理を軽くしつつ、獲得量は減らさないので、インフレの爽快感を損なわずに安定して遊べるようになりました。
+- **プレイヤーの要望を反映したアップデート**
+  公開後のコメントで「自動で購入したい」「自動でコインを投入したい」という要望をもらい、「レート自動購入」「コイン自動投入」ボタンを追加しました。インフレが進むほどクリックが増えて手間になる、というインクリメンタルゲーム特有の不満を解消しました。
+- **クリックだけで完結する画面設計**
+  ブラウザで気軽に遊べるよう操作をクリックのみにし、アップグレードと説明UIを1画面にまとめて、初めての人でも迷わず遊べるようにしました。
 
-- 開発環境：Unity6000.2.8f1
-- 開発期間：2025/10/30-2025/11/17
+**今後の課題**：スクリプト名・クラス名の表記ゆれがあるため、命名規則を決めて統一したいです。
 
-### シンプルカードライブ
-[<img src="https://os-worker.unityroom.com/unityroom_production/icon/224092/icon_20251028_200908.png?h=1761649748" alt="シンプルカードライブ" style="height: 300px">](https://unityroom.com/games/simplecardrive)
+---
 
-[シンプルカードライブ](https://unityroom.com/games/simplecardrive)
+### インクリメンタルタワーディフェンス
 
-A/D ←/→ で車を操作して、ゴールまで走るシンプルなゲームです。
+[<img src="https://os-worker.unityroom.com/unityroom_production/icon/329607/icon_20260814_155111.gif?h=1786690271" alt="インクリメンタルタワーディフェンス" height="300">](https://unityroom.com/games/incrementaltd)
 
-- 開発環境：Unity6000.2.8f1
-- 開発期間：2025/10/23-2025/11/6
+▶ [unityroom で遊ぶ](https://unityroom.com/games/incrementaltd)
 
-### シンプルインフレ玉集め
-[<img src="https://os-worker.unityroom.com/unityroom_production/icon/237491/icon_20251209_010736.png?h=1765210056" alt="シンプルインフレ玉集め" style="height: 300px">](https://unityroom.com/games/simpleinflationtamaatume)
+次々と攻めてくる敵を、強化したタワーや味方キャラで迎え撃ち、300秒の生存を目指すタワーディフェンスです。転生（プレステージ）で強化を引き継ぎ、周回するほど先へ進めます。
 
+| 項目 | 内容 |
+| --- | --- |
+| 制作順 | 6作目 |
+| 開発環境 | Unity 6000.3.12f1 / C# / Claude |
+| 制作期間 | 2026/7/27 ～ 2026/8/16（約3週間） |
+| 制作人数 | 3人（自分の担当：企画・設計・デバッグ） |
+| 実績 | スコアランキング対応 |
 
-[シンプルインフレ玉集め](https://unityroom.com/games/simpleinflationtamaatume)
+**工夫した点**
 
-WASDで操作して赤枠の中に球を集め、お金を稼ぎ、アップグレードしていく、シンプルなインクリメンタルゲームです。
+- **AIを活用した開発**
+  AIを使った開発を目的に制作しました。キャラクターの動きやセーブ機能の仕様を自分で設計して Claude に指示し、生成されたものの動作確認とデバッグを担当しました。
+- **アップグレードボタンの共通化**
+  タワーや味方キャラなど、数多くあるアップグレードのボタンを共通の仕組みで扱えるようにしました。
+- **周回するたびに強くなれるゲームバランス**
+  毎回の周回で必ずアップグレードできるようにバランスを調整し、強くなっていく手応えを感じられるようにしました。
+- **誤操作を防ぐUI**
+  転生ボタンは3秒間の長押しで実行するようにし、うっかり押してしまうのを防いでいます。
 
-- 開発環境：Unity6000.2.8f1
-- 開発期間：2025/11/24-2025/12/9
+---
 
 ### GPUMiningタイクーン
-[<img src="https://os-worker.unityroom.com/unityroom_production/icon/254787/icon_20260129_142108.png?h=1769664068" alt="GPUMiningタイクーン" style="height: 300px">](https://unityroom.com/games/gpuminingtycoon)
 
+[<img src="https://os-worker.unityroom.com/unityroom_production/icon/254787/icon_20260129_142108.png?h=1769664068" alt="GPUMiningタイクーン" height="300">](https://unityroom.com/games/gpuminingtycoon)
 
-[GPUMiningタイクーン](https://unityroom.com/games/gpuminingtycoon)
+▶ [unityroom で遊ぶ](https://unityroom.com/games/gpuminingtycoon)
 
-GPUでマイニングをして、お金をためてGPUガチャを引き、どんどん効率を上げてお金を稼ぐ、シンプルなインクリメンタルゲームです。
+GPUガチャを引いてGPUを手に入れ、マイニングリグに取り付けてお金を稼ぎ、さらにガチャを引いて効率を上げていく3Dのインクリメンタルゲームです。箱を開ける、つかむ、スロットに挿すといった操作を3D空間で行います。
 
-- 開発環境：Unity6000.3.8f1
-- 開発期間：2025/12/29-2026/1/18
+| 項目 | 内容 |
+| --- | --- |
+| 制作順 | 5作目 |
+| 開発環境 | Unity 6000.3.8f1 / C# / Blender |
+| 制作期間 | 2025/12/29 ～ 2026/1/18（約3週間） |
+| 制作人数 | 1人（企画・プログラミング・3Dモデル） |
+| 実績 | 閲覧数 6,800回以上（2026年10月時点）/ スコアランキング対応 |
 
+**工夫した点**
+
+- **ScriptableObject によるアイテムの共通管理**
+  GPU・マイニングリグ・棚など、性質の似たアイテムを個別に作るのではなく共通化し、データを ScriptableObject で管理しました。
+- **プレイヤーの要望を受けたセーブ機能の実装**
+  unityroom のコメントで「セーブ機能がほしい」という声が多かったため、セーブ・ロード機能を追加しました。各アイテムの座標や状態を文字列に変換し、デリミタでつないで PlayerPrefs に保存しています。
+- **3Dモデルの自作**
+  ゲームに登場する3Dモデルはすべて Blender で自作しました。
+
+**今後の課題**：最初のガチャを引けるまでが長いので、序盤のテンポを改善したいです。
+
+---
+
+## その他の作品
+
+| 作品 | 内容 | 制作順 / 開発環境 / 制作期間 |
+| --- | --- | --- |
+| [<img src="https://os-worker.unityroom.com/unityroom_production/icon/229044/icon_20251115_122319.png?h=1763176999" alt="シンプルインフレダイス" height="120">](https://unityroom.com/games/simpleinflationdice)<br>[シンプルインフレダイス](https://unityroom.com/games/simpleinflationdice) | クリックでダイスを振り、出目に応じたお金でダイスを強化していくインフレゲーム | 3作目<br>Unity 6000.2.8f1<br>2025/10/30 ～ 11/17 |
+| [<img src="https://os-worker.unityroom.com/unityroom_production/icon/237491/icon_20251209_010736.png?h=1765210056" alt="シンプルインフレ玉集め" height="120">](https://unityroom.com/games/simpleinflationtamaatume)<br>[シンプルインフレ玉集め](https://unityroom.com/games/simpleinflationtamaatume) | WASDで操作して赤枠に玉を集め、稼いだお金でアップグレードしていくインクリメンタルゲーム | 4作目<br>Unity 6000.2.8f1<br>2025/11/24 ～ 12/9 |
+| [<img src="https://os-worker.unityroom.com/unityroom_production/icon/224092/icon_20251028_200908.png?h=1761649748" alt="シンプルカードライブ" height="120">](https://unityroom.com/games/simplecardrive)<br>[シンプルカードライブ](https://unityroom.com/games/simplecardrive) | A/D・←/→ で車を操作してゴールを目指すドライブゲーム | 2作目<br>Unity 6000.2.8f1<br>2025/10/23 ～ 11/6 |
