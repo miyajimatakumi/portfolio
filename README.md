@@ -3,7 +3,7 @@
 **宮島 拓実** 
 専門学校デジタルアーツ東京 ゲーム学科ゲームプログラム専攻 2027年卒業予定
 
-連絡先：X [@takumin393_](https://x.com/takumin393_) / Email [m.miyajima.takumi@gmail.com](mailto:m.miyajima.takumi@gmail.com)
+連絡先：Email [m.miyajima.takumi@gmail.com](mailto:m.miyajima.takumi@gmail.com)
 
 ## ハイライト
 
